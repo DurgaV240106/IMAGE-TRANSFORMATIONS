@@ -99,58 +99,47 @@ plt.axis('off')
 ```
 ## Output:
 ### i)Image Translation
-<br>
-<br>
+
 ![image](https://github.com/user-attachments/assets/1ab444a8-099f-4707-b466-55da25c7fafa)
 
-<br>
-<br>
+
+
 
 ### ii) Image Scaling
-<br>
-<br>
+
 ![image](https://github.com/user-attachments/assets/b1cd5c3f-e737-43f2-81a3-0bc6da62f5d6)
 
-<br>
-<br>
+
 
 
 ### iii)Image shearing
-<br>
-<br>
+
 ![image](https://github.com/user-attachments/assets/2f7da268-eb00-4962-8e6b-c4b7c32b3122)
 
-<br>
-<br>
+
 
 
 ### iv)Image Reflection
-<br>
-<br>
+
 ![image](https://github.com/user-attachments/assets/8f50a1c3-2e2f-4c06-a40c-16253449d4c4)
 
-<br>
-<br>
+
 
 
 
 ### v)Image Rotation
-<br>
-<br>
+
 ![image](https://github.com/user-attachments/assets/3c476848-dd7d-4c2e-9506-1c9e3cd7ba26)
 
-<br>
-<br>
+
 
 
 
 ### vi)Image Cropping
-<br>
-<br>
+
 ![image](https://github.com/user-attachments/assets/f9f657e9-2376-4ce5-bb19-d0198955c983)
 
-<br>
-<br>
+
 
 
 
